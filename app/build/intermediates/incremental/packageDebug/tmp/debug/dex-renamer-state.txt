@@ -1,0 +1,4 @@
+#Tue Dec 29 13:17:09 IRST 2020
+base.0=/Users/mohammad/Projects/tiara-i2c-tools/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

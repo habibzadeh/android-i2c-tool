@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/142bd4084360646fa04526b8a0017f0d/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e113d8e8959c693d18e86f819cc3f8f4/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/6af9a21942bb3589b6c922a8fd0f6a3f/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/9aa66e9bd8bb92c72f09d8d3c822bdab/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e13554b6e7aa72904c87c56514bfcfd4/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/cbd23d1233a5906a0e9c5f691d9c7616/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/d9e3c4d829c24a25043d55a3cbe1787b/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/65ebd582d647d423d7299711750ff8d5/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/3c69e30aed71c56a7b6c62d5fff597ca/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/fa36cb194e16cc0c8fbbb032f84ef026/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/906c6290e8791ebb0a4efc22789b62cc/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/0ebd9d92b7706ffad2a6a2beb99993a6/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/503565d459f2737d1a89817b3ce27065/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/b090f987f14c65f6eace368f6a71a895/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/74b577d0118e6e0db8f1920fcb31fc7a/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/a26c45127fa6c56ff1c26ef2b9472060/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/364c48f3a8a9d3526d7d469313ea84e6/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e5bccd29c8ea3e1b45e402b08ca16e99/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/04cf141e6df585d74307112178b0a4c8/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/6260cfa247ce2d39f59d4ce21e3598dc/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/933e593519354ef06f24b7b415f0c12e/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/840af5bd92d37519a08faf8a9169bd32/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/41dff7fb149e9204aced428be03fcf33/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e926fb4934588d8c3602a1210f60860b/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/72886dd50bbc393d911264c9d09dced0/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/40577ed36b9f0cb83e362d63f926df3c/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/216c426f15a88fb7d10d4ce4f791702a/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/20b5becdd392bd0c927d46cc5089b074/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:9:5-24:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/364c48f3a8a9d3526d7d469313ea84e6/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/364c48f3a8a9d3526d7d469313ea84e6/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e5bccd29c8ea3e1b45e402b08ca16e99/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e5bccd29c8ea3e1b45e402b08ca16e99/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/364c48f3a8a9d3526d7d469313ea84e6/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.mitac.android.i2ctool.MainActivity
+ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:screenOrientation
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:16:13-50
+	android:label
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:15:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/142bd4084360646fa04526b8a0017f0d/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/142bd4084360646fa04526b8a0017f0d/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e113d8e8959c693d18e86f819cc3f8f4/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e113d8e8959c693d18e86f819cc3f8f4/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/6af9a21942bb3589b6c922a8fd0f6a3f/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/6af9a21942bb3589b6c922a8fd0f6a3f/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/9aa66e9bd8bb92c72f09d8d3c822bdab/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/9aa66e9bd8bb92c72f09d8d3c822bdab/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e13554b6e7aa72904c87c56514bfcfd4/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e13554b6e7aa72904c87c56514bfcfd4/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/cbd23d1233a5906a0e9c5f691d9c7616/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/cbd23d1233a5906a0e9c5f691d9c7616/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/d9e3c4d829c24a25043d55a3cbe1787b/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/d9e3c4d829c24a25043d55a3cbe1787b/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/65ebd582d647d423d7299711750ff8d5/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/65ebd582d647d423d7299711750ff8d5/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/3c69e30aed71c56a7b6c62d5fff597ca/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/3c69e30aed71c56a7b6c62d5fff597ca/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/fa36cb194e16cc0c8fbbb032f84ef026/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/fa36cb194e16cc0c8fbbb032f84ef026/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/906c6290e8791ebb0a4efc22789b62cc/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/906c6290e8791ebb0a4efc22789b62cc/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/0ebd9d92b7706ffad2a6a2beb99993a6/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/0ebd9d92b7706ffad2a6a2beb99993a6/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/503565d459f2737d1a89817b3ce27065/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/503565d459f2737d1a89817b3ce27065/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/b090f987f14c65f6eace368f6a71a895/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/b090f987f14c65f6eace368f6a71a895/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/74b577d0118e6e0db8f1920fcb31fc7a/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/74b577d0118e6e0db8f1920fcb31fc7a/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/a26c45127fa6c56ff1c26ef2b9472060/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/a26c45127fa6c56ff1c26ef2b9472060/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/364c48f3a8a9d3526d7d469313ea84e6/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/364c48f3a8a9d3526d7d469313ea84e6/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e5bccd29c8ea3e1b45e402b08ca16e99/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e5bccd29c8ea3e1b45e402b08ca16e99/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/04cf141e6df585d74307112178b0a4c8/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/04cf141e6df585d74307112178b0a4c8/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/6260cfa247ce2d39f59d4ce21e3598dc/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/6260cfa247ce2d39f59d4ce21e3598dc/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/933e593519354ef06f24b7b415f0c12e/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/933e593519354ef06f24b7b415f0c12e/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/840af5bd92d37519a08faf8a9169bd32/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/840af5bd92d37519a08faf8a9169bd32/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/41dff7fb149e9204aced428be03fcf33/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/41dff7fb149e9204aced428be03fcf33/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e926fb4934588d8c3602a1210f60860b/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/e926fb4934588d8c3602a1210f60860b/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/72886dd50bbc393d911264c9d09dced0/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/72886dd50bbc393d911264c9d09dced0/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/40577ed36b9f0cb83e362d63f926df3c/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/40577ed36b9f0cb83e362d63f926df3c/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/216c426f15a88fb7d10d4ce4f791702a/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/216c426f15a88fb7d10d4ce4f791702a/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/20b5becdd392bd0c927d46cc5089b074/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mohammad/.gradle/caches/transforms-2/files-2.1/20b5becdd392bd0c927d46cc5089b074/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mohammad/Projects/tiara-i2c-tools/app/src/main/AndroidManifest.xml
